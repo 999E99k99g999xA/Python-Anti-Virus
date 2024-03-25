@@ -1,1 +1,1 @@
-This is a basic python anti-virus, which scans specified files for anything suspicious, and flags them as potentially having anything malicious
+This basic Python anti-virus scans specified files for anything suspicious and flags them as potentially having anything malicious. For additional information about this project, visit https://sites.google.com/d/1wWpZPNGCWrTBKw7ZAhfkz2qXeke2dS8f/p/1FeBm1ubYQgN7jvfrKbiVfmcH4UxV09IM/edit, which includes a troubleshooting page.
